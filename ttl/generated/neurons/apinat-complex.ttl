@@ -13169,4 +13169,7 @@ ilxtr:neuron-type-sstom-14 a owl:Class ;
             (
                 [ ILX:0793658 UBERON:0008863 ] ) ) .
 
+ilxtr:NeuronApinatComplex a owl:Class ;
+    rdfs:subClassOf ilxtr:NeuronApinatSimple .
+
 ### Serialized using the ttlser deterministic serializer v1.2.3
